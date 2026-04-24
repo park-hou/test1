@@ -1,0 +1,6 @@
+canonical,variants,category,priority,review_rule,apply_scope,course,notes
+변증론치,"변증 논치|辨證論治",theory,high,prefer_dictionary,course,공통,핵심 이론 용어
+장부변증,"장부 변증|臟腑辨證",theory,high,prefer_dictionary,course,진단학,과목별 주요 용어 예시
+육미지황탕,"육미 지황탕|六味地黃湯",formula,high,force_review,course,방제학,과목별 템플릿 예시
+황기,"黃芪",herb,medium,prefer_dictionary,course,본초학,과목별 템플릿 예시
+족삼리,"족 삼리|ST36",acupoint,high,force_review,course,침구학,과목별 템플릿 예시

@@ -1,0 +1,63 @@
+canonical,variants,category,priority,review_rule,apply_scope,source,notes
+변증,"변 증|辨證",core_concept,high,prefer_dictionary,common,common,한의학 전반 핵심 개념
+팔강변증,"팔강 변증|八綱辨證",core_concept,high,prefer_dictionary,common,common,진단학 핵심 용어
+장부변증,"장부 변증|臟腑辨證",core_concept,high,prefer_dictionary,common,common,진단학 핵심 용어
+기혈진액,"기 혈 진액|氣血津液",core_concept,high,prefer_dictionary,common,common,생리 병리 공통 핵심어
+변증론치,"변증 논치|辨證論治",core_concept,high,prefer_dictionary,common,common,이론 강의 전반에 자주 등장
+음허,"음 허|陰虛",pattern,high,prefer_dictionary,common,common,자주 등장하는 변증 용어
+양허,"양 허|陽虛",pattern,high,prefer_dictionary,common,common,자주 등장하는 변증 용어
+기허,"기 허|氣虛",pattern,high,prefer_dictionary,common,common,자주 등장하는 변증 용어
+혈허,"혈 허|血虛",pattern,high,prefer_dictionary,common,common,자주 등장하는 변증 용어
+습담,"습 담|濕痰",pattern,high,prefer_dictionary,common,common,병리 개념
+어혈,"어 혈|瘀血",pattern,high,prefer_dictionary,common,common,병리 개념
+간기울결,"간기 울결|肝氣鬱結",pattern,high,prefer_dictionary,common,common,정신 신경 증상 설명에 자주 등장
+비위허약,"비위 허약|脾胃虛弱",pattern,high,prefer_dictionary,common,common,소화기 강의에 자주 등장
+간양상항,"간양 상항|肝陽上亢",pattern,medium,normal,common,common,두통 현훈 문맥에 자주 등장
+심비양허,"심비 양허|心脾兩虛",pattern,medium,normal,common,common,불면 건망 문맥
+신음허,"신 음허|腎陰虛",pattern,high,prefer_dictionary,common,common,노년 질환 문맥
+기체혈어,"기체 혈어|氣滯血瘀",pattern,medium,normal,common,common,통증 질환 문맥
+표증,"표 증|表證",core_concept,medium,normal,common,common,상한론 문맥
+리증,"리 증|裏證",core_concept,medium,normal,common,common,상한론 문맥
+한증,"한 증|寒證",core_concept,medium,normal,common,common,팔강 관련
+열증,"열 증|熱證",core_concept,medium,normal,common,common,팔강 관련
+허증,"허 증|虛證",core_concept,medium,normal,common,common,팔강 관련
+실증,"실 증|實證",core_concept,medium,normal,common,common,팔강 관련
+상한론,"상한 론|傷寒論",classic,high,force_review,common,common,고전명
+금궤요략,"금궤 요략|金匱要略",classic,high,force_review,common,common,고전명
+동의보감,"동의 보감",classic,high,force_review,common,common,고전명
+본초학,"본 초학",subject,high,prefer_dictionary,common,common,과목명
+방제학,"방 제학",subject,high,prefer_dictionary,common,common,과목명
+침구학,"침 구학",subject,high,prefer_dictionary,common,common,과목명
+한방생리학,"한방 생리학",subject,medium,normal,common,common,과목명
+한방병리학,"한방 병리학",subject,medium,normal,common,common,과목명
+진단학,"진단 학",subject,high,prefer_dictionary,common,common,과목명
+경락,"경 락|經絡",meridian,high,prefer_dictionary,common,common,침구학 공통 핵심어
+경혈,"경 혈|經穴",acupoint,high,prefer_dictionary,common,common,침구학 공통 핵심어
+수태음폐경,"수태음 폐경|手太陰肺經",meridian,medium,force_review,common,common,경락명
+족양명위경,"족양명 위경|足陽明胃經",meridian,high,force_review,common,common,경락명
+족태음비경,"족태음 비경|足太陰脾經",meridian,medium,force_review,common,common,경락명
+족소음신경,"족소음 신경|足少陰腎經",meridian,medium,force_review,common,common,경락명
+합곡,"합 곡|LI4",acupoint,high,force_review,common,common,대표 혈자리
+족삼리,"족 삼리|ST36",acupoint,high,force_review,common,common,대표 혈자리
+태충,"태 충|LR3",acupoint,high,force_review,common,common,대표 혈자리
+삼음교,"삼음 교|SP6",acupoint,high,force_review,common,common,대표 혈자리
+백회,"백 회|GV20",acupoint,medium,force_review,common,common,대표 혈자리
+내관,"내 관|PC6",acupoint,medium,force_review,common,common,대표 혈자리
+황기,"黃芪",herb,high,force_review,common,common,본초명
+당귀,"當歸",herb,high,force_review,common,common,본초명
+백작약,"백 작약|白芍藥",herb,high,force_review,common,common,본초명
+숙지황,"숙 지황|熟地黃",herb,high,force_review,common,common,본초명
+천궁,"川芎",herb,high,force_review,common,common,본초명
+인삼,"人蔘",herb,high,force_review,common,common,본초명
+감초,"甘草",herb,high,force_review,common,common,본초명
+계지,"桂枝",herb,medium,force_review,common,common,본초명
+마황,"麻黃",herb,medium,force_review,common,common,본초명
+복령,"茯苓",herb,medium,force_review,common,common,본초명
+보중익기탕,"보중 익기탕|補中益氣湯",formula,high,force_review,common,common,대표 처방명
+육미지황탕,"육미 지황탕|六味地黃湯",formula,high,force_review,common,common,대표 처방명
+소요산,"逍遙散",formula,high,force_review,common,common,대표 처방명
+계지탕,"桂枝湯",formula,medium,force_review,common,common,대표 처방명
+마황탕,"麻黃湯",formula,medium,force_review,common,common,대표 처방명
+사물탕,"사 물탕|四物湯",formula,medium,force_review,common,common,대표 처방명
+사군자탕,"사군자 탕|四君子湯",formula,medium,force_review,common,common,대표 처방명
+반하사심탕,"반하 사심탕|半夏瀉心湯",formula,medium,force_review,common,common,대표 처방명

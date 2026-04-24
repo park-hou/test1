@@ -1,0 +1,4 @@
+canonical,variants,category,priority,review_rule,apply_scope,source,notes
+육미지황탕,"육미 지황탕|六味地黃湯",formula,critical,force_review,lecture,lecture_material,해당 강의의 핵심 처방
+족삼리,"족 삼리|ST36",acupoint,critical,force_review,lecture,lecture_material,혈자리 코드는 함께 기록
+변증론치,"변증 논치|辨證論治",core_concept,high,prefer_dictionary,lecture,lecture_material,강의 제목 또는 소제목에서 추출
