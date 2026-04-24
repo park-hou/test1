@@ -24,8 +24,6 @@
 - `source`: `common`, `lecture_material`, `course_note`, `manual_add` 등 용어 출처
 - `notes`: 보충 설명
 
-## 권장 사용법
-
 ## 템플릿별 추가 컬럼
 
 - `course_terms_template.csv`에는 `course` 컬럼을 추가해 어느 과목에 속한 용어인지 기록한다.
